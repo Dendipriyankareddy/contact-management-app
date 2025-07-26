@@ -82,3 +82,6 @@ Click the "About" button to view information about the app, including its creato
 
 ## License
 This Contact Management App is open-source software licensed under the MIT License. Feel free to use, modify, and distribute it as needed.
+
+#linkedin:
+https://www.linkedin.com/in/dendi-priyanka-reddy-102974270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
